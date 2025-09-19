@@ -1,2 +1,3 @@
-# Tweet_extract_airflow
-An Airflow DAG that extracts tweets from a given Twitter username using the Twitter API, processes them, and saves the data in Amazon S3 for further analysis.
+# Cricket_data_analysis
+📊 Cricket Data Analysis using PySpark & Matplotlib — applied Spark transformations on IPL ball-by-ball dataset and visualized insights with Python.
+
